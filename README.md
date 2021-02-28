@@ -1,4 +1,4 @@
-# Lab7
+# Lab6
 ### Executive Summary 
 In this lab it talks about the similarities and differences in what a zip file is and what an unzipped one is. Also in this lab it talks about all the different types of shark methods to coding. besides all that it walked about the difference in shark class and shark object and how they are different and smile in a way along with how they work with one and another
 ###  File Compression. 
